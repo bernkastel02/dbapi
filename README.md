@@ -10,6 +10,8 @@ var db = new dbapi("Token")
 db.getStats("140707547634991104").then((botData) => { console.log(botData) })
 ```
 
+## NPM Package
+https://www.npmjs.com/package/discord-bots-api
 
 ## Documentation
 

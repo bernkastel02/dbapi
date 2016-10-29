@@ -1,5 +1,5 @@
 {
-  "name": "dbapi",
+  "name": "discord-bots-api",
   "version": "0.0.1",
   "description": "A wrapper made for the Discord Bots API",
   "main": "index.js",
