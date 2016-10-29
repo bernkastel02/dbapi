@@ -1,6 +1,6 @@
 {
   "name": "discord-bots-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wrapper made for the Discord Bots API",
   "main": "index.js",
   "scripts": {
