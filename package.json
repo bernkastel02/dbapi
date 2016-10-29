@@ -1,0 +1,27 @@
+{
+  "name": "dbapi",
+  "version": "0.0.1",
+  "description": "A wrapper made for the Discord Bots API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekonez/dbapi.git"
+  },
+  "keywords": [
+    "discord",
+    "bots"
+  ],
+  "author": "Marisa Kirisame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekonez/dbapi/issues"
+  },
+  "homepage": "https://github.com/nekonez/dbapi#readme",
+  "dependencies": {
+    "request": "^2.76.0",
+    "request-promise-any": "^1.0.3"
+  }
+}
